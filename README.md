@@ -1,12 +1,8 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/MarceloLima11/MarceloLima11/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/MarceloLima11/MarceloLima11/blob/main/banner.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Hello, I'm Marcelo 💜<br><br> At first, a backend developer, but gradually deepening my knowledge in frontend as well, primarily using ReactJS/TS. I am a <strong>technology enthusiast</strong>, taking big steps towards becoming a fullstack developer ;).</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloLima11&show_icons=true&theme=radical)" />
- </div>
+<p align="center">Welcome to my GitHub profile! 💜<br><br> At first, a backend developer, but gradually deepening my knowledge in frontend as well, primarily using ReactJS/TS. I am a <strong>technology enthusiast</strong>, taking big steps towards becoming a fullstack developer ;).</p>&nbsp;
  
  &nbsp;
  &nbsp;
